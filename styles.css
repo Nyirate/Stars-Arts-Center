@@ -1,0 +1,84 @@
+body {
+  margin: 3px;
+  font-family: Georgia, Helvetica, sans-serif;
+  padding:3px;
+}
+
+.container {
+  overflow: hidden;
+  
+}
+
+.container > h1 {
+  width:40%;
+  color: black;
+  text-align: center;
+  padding: 34px 46px;
+  text-decoration: none;
+  font-size: 40px;
+  background-color:grey;
+  
+}
+
+h2{
+  font-size:15px;
+
+}
+.move{
+  font-size:20px;
+  font-style:italic;
+  color:black;
+  text-align:center;
+}
+.foot{
+  font-size:15px;
+  border:3px solid grey;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAhCmgKS9NUXiRSl5JaDFIexv4yuxlL_Jitj7JwfkfTVgrpAk");
+  border-radius:5px;
+  text-align:center;
+}
+.about{
+  color:black;
+  font-size:20px;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ50B2ek7aCXg_kVVgTXAP3x0FVbcA82WS20N07-h7d6YtDuO");
+  justify-content:space-between;
+}
+img{
+  width:300px;
+  height:150px;
+}
+#act{
+  text-align:center;
+  text-decoration:underline;
+  color:maroon;
+}
+.all{
+  color:black;
+  background-color:white;
+  justify-content:space-between;
+  text-decoration:none;
+}
+
+nav{
+  padding:15px;
+  background-color:lightblue;
+   text-decoration:none;
+   font-size:30px;
+  
+}
+#fin > img{
+  width:100%;
+  height:550px;
+}
+.led > img{
+  width:100%;
+  height:600px;
+  
+}
+.lim img:hover{
+  width:30%;
+  height:300px;
+}
+a{
+  text-decoration:none;
+}
